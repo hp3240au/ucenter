@@ -5,7 +5,7 @@ ucenter for wordpress_sae
 
 === Plugin Name ===
 
-Contributors: jingjinpeng
+Contributors: 京金鹏
 
 Donate link: http://www.youni.net.cn/
 
@@ -32,7 +32,7 @@ WordPress的集成与UCenter的，这将使得WordPress的工作与UCenter的支
 
 插件针对WordPress sae版本。使用它，您可以轻松地整合UCenter和WordPress。
 
-安装完成后，WordPress会像这样：>
+提示：测试平台为wordpress sae 3.9.1
 
  
 
@@ -77,7 +77,7 @@ WordPress的集成与UCenter的，这将使得WordPress的工作与UCenter的支
 
 3. 设置参数
 
-
+4、将安装包内的cache文件夹剪切粘贴到client\data\cache
 
 
 == 常见问题==
